@@ -1,10 +1,10 @@
 {
-  "name": "akameco",
+  "name": "ssnyarii",
   "version": "0.2.0",
-  "description": "akameco CLI",
+  "description": "ssnyarii CLI",
   "license": "MIT",
-  "repository": "akameco/akameco",
-  "author": "akameco <akameco.t@gmail.com> (akameco.github.io)",
+  "repository": "ssnyarii/ssnyarii",
+  "author": "ssnyarii <ssnyarii.t@gmail.com> (ssnyarii.github.io)",
   "bin": "src/cli.js",
   "engines": {
     "node": ">=8"
